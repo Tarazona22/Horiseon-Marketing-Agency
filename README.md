@@ -16,3 +16,4 @@ For this challenge, I was tasked with refactoring the code to have a more accesi
 * Added and optimized the website title
 * Refactored HTML to make use of semantic elements
 * Added alt attributes to images
+* Updated CSS to correlate more efficiently with the HTML
